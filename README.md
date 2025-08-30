@@ -1,12 +1,39 @@
-# React + Vite
+**COMPANY**: CODTECH IT SOLUTIONS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**NAME**: Shivam singh
 
-Currently, two official plugins are available:
+**INTERN ID**: CT04DZ2310
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**DOMAIN**: Mern Stack Web Development
 
-## Expanding the ESLint configuration
+**BATCH DURATION**: from August 2nd, 2025 to September 2nd, 2025.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
+# Weather Web Application 🌤️
+
+A **responsive web app** that fetches and displays real-time weather data using the [OpenWeatherMap API](https://openweathermap.org/api). Users can search for any city and view current weather conditions, including temperature, humidity, wind speed, and weather descriptions.
+
+---
+
+## Features
+- **Real-time Weather Data:** Get up-to-date weather information.
+- **Search Functionality:** Look up weather for any city worldwide.
+- **Responsive Design:** Works on desktop, tablet, and mobile devices.
+- **Weather Details:** Displays temperature, humidity, wind speed, and weather icons.
+- **User-friendly Interface:** Clean and intuitive design.
+
+---
+
+## Tech Stack
+- **Frontend:** HTML, CSS, JavaScript
+- **API:** OpenWeatherMap API
+- **Optional Enhancements:** Bootstrap or TailwindCSS for responsive design
+
+---
+
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone <your-repo-url>
